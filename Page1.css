@@ -1,0 +1,51 @@
+body {
+    background-color: blue;
+    margin: 0;
+    font-family: Arial, sans-serif;
+  }
+
+  header.logo {
+    display: flex;
+    align-items: center;
+    padding: 10px;
+    background-color: aqua;
+  }
+
+  .head {
+    display: flex;
+    gap: 20px;
+    justify-content: center;
+    padding: 10px;
+    background-color: #fff;
+  }
+  .image {
+    background: white;
+    width: 260px;
+    padding: 20px;
+    text-align: center;
+    border-radius: 10px;
+
+    position: relative;
+    top: 50px;
+  }
+  .post{
+
+    text-align: left;
+     margin-left: 200px;
+     margin-right: 200px;
+     padding: 40px;
+     background-color: white;
+     border-radius: 10px;
+
+     position: relative;
+     bottom: 300px;
+     left: 120px;
+
+  }
+
+  .footer {
+    background-color: white;
+    text-align: center;
+    padding: 20px;
+    bottom: 10px;
+  }

@@ -1,0 +1,47 @@
+body {
+    background-color: blue;
+    margin: 0;
+    font-family: Arial, sans-serif;
+  }
+
+  header.logo {
+    display: flex;
+    align-items: center;
+    padding: 10px;
+    background-color: aqua;
+  }
+
+  .head {
+    display: flex;
+    gap: 20px;
+    justify-content: center;
+    padding: 10px;
+    background-color: #fff;
+ }
+ .contact{
+
+   
+
+        text-align: center;
+        margin-left: 200px;
+        margin-right: 200px;
+        padding: 40px;
+        background-color: white;
+        border-radius: 10px;
+   
+        position: relative;
+        top: 50px;
+
+ }
+ .footer {
+    background-color: white;
+    text-align: center;
+    padding: 20px;
+    
+    position: relative;
+    top: 315px;
+   }
+.info{
+
+    text-align: left;
+}
